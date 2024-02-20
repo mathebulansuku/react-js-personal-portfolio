@@ -1,29 +1,42 @@
-import {useState, useEffect} from React;
+import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
-function Navbar(){
-  const [navActive, setNavActive] = useState(false)
-
+function Navbar() {
+  const [navActive, setNavActive] = useState(false);
 
   const toggleNav = () => {
-    setNavActive(!navActive)
-  }
+    setNavActive(!navActive);
+  };
 
   const closeMenu = () => {
-    setNavActive(false)
-  }
+    setNavActive(false);
+  };
 
-  useEffect (() => {
+  useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth <= 500) {
-        closeMenu
+        closeMenu;
       }
-    }
+    };
 
     window.addEventListener("resize", handleResize);
 
     return () => {
       window.removeEventListener("resize", handleResize);
-    }
-  })
+    };
+  }, []);
+
+  useEffect(() => {
+    if (window.innerWidth <= 1200) closeMenu;
+  });
+
+  return (
+    <nav className={`navbar ${navActive ? "active" : ""}`}>
+      <div>
+        <img src="./img/logo.svg" alt="Logo" />
+      </div>
+    </nav>
+  );
 }
+
+export default Navbar;
