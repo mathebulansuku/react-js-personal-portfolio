@@ -10,8 +10,20 @@ export default function HeroSection() {
             <br />
             Developer
           </h1>
-          <p className="hero-section-description"></p>
+          <p className="hero-section-description">
+            Nsuku Mathebula, a tenacious computer science student from the
+            University of South Africa, is poised to graduate in 2025.
+            <br />
+            As a skilled front-end web developer, Nsuku's proficiency spans the
+            entire spectrum of web application creation, where his fusion of
+            technical aptitude and artistic finesse crafts digital experiences
+            that captivate.
+          </p>
         </div>
+        <button className="btn btn-primary">Get In Touch</button>
+      </div>
+      <div className="hero-section-img">
+        <img src="./img/hero_img.png" alt="Hero Section" />
       </div>
     </section>
   );
