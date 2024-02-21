@@ -261,3 +261,29 @@ h2 {
 }
 
 /* Hero Section ENDS */
+
+/* Skills section styling*/
+
+.skills-section {
+  display: flex;
+  padding: 49.33px 85.33px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 106.667px;
+}
+
+.skills-section-heading {
+  color: var(--heading-color);
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 77px;
+}
+
+.skills-section-container {
+  display: grid;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 42.6px;
+  grid-template-columns: repeat(4, 1fr);
+}
