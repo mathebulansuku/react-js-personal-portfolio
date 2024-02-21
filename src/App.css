@@ -199,6 +199,10 @@ h2 {
   cursor: pointer;
 }
 
+.navbar-active-content {
+  color: var(--primary);
+}
+
 /* HERO Section */
 
 .hero-section {
