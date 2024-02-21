@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain.png",
+      "title": "Frond-End",
+      "description": "This will display my skills as a front-end web developer. My exceptional ability to build dynamic websites and applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale to global standards with just a few clicks of a button."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Intuitive and visually appealing user interfaces designed to enhance user experience."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "End-end web solutions, handling both front and back-end development to deliver seamless and functinal websites."
+    }
+  ]
+}
