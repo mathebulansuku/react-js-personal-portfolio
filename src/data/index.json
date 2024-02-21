@@ -3,26 +3,26 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Frond-End",
-      "description": "This will display my skills as a front-end web developer. My exceptional ability to build dynamic websites and applications."
+      "title": "Frond-End Dev",
+      "description": "Frond-end applications that portray the companies abilities to serve products that are recognized at a global standard."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale to global standards with just a few clicks of a button."
+      "title": "Back-End Dev",
+      "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale globally."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Intuitive and visually appealing user interfaces designed to enhance user experience."
+      "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "End-end web solutions, handling both front and back-end development to deliver seamless and functinal websites."
+      "description": "End-end web solutions, handling both front and back-end development to deliver seamless and functional websites."
     }
   ]
 }
