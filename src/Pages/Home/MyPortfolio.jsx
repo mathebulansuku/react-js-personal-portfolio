@@ -23,7 +23,7 @@ export default function MyPortfolio() {
                 <h3 className="portfolio-section-title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
-              <p className="text-sm portfolio-link"></p>
+              <p className="text-sm portfolio-link">{item.link}</p>
             </div>
           </div>
         ))}

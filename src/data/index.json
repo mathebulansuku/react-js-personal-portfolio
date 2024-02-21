@@ -29,21 +29,21 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "ScholarFi",
-      "description": "Frond-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "title": "ScholarFi App",
+      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
       "link": "View In GitHub"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "Back-End Dev",
+      "title": "ASW Tutors Website",
       "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale globally.",
       "link": "View In GitHub"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "UI & UX Design",
+      "title": "Mapapa Solution Website",
       "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
       "link": "View In GitHub"
     }
