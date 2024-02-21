@@ -2,7 +2,7 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain.png",
+      "src": "./img/product-chain-1.png",
       "title": "Frond-End",
       "description": "This will display my skills as a front-end web developer. My exceptional ability to build dynamic websites and applications."
     },
