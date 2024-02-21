@@ -43,7 +43,7 @@ function Navbar() {
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
       </a>
-      <div className={`nav--items ${navActive ? "active" : ""}`}>
+      <div className={`navbar-items ${navActive ? "active" : ""}`}>
         <ul>
           <li>
             <Link
