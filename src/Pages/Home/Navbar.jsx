@@ -32,9 +32,9 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
-      <div>
+      {/* <div>
         <img src="./img/logo.svg" alt="Logo" />
-      </div>
+      </div> */}
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
