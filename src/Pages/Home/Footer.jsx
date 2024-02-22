@@ -3,16 +3,16 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="footer--container">
-      <div className="footer--link--container">
+    <footer className="footer-container">
+      <div className="footer-link-container">
         <div>
           <img src="./img/logo.svg" alt="Logoipsum" />
         </div>
-        <div className="footer--items">
+        <div className="footer-items">
           <ul>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -25,7 +25,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -38,7 +38,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -51,7 +51,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -64,7 +64,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -77,12 +77,12 @@ function Footer() {
             </li>
           </ul>
         </div>
-        <div className="footer--social--icon">
+        <div className="footer-social-icon">
           <ul>
             <li>
               <a
                 href="https://www.facebook.com/"
-                className="navbar--content"
+                className="navbar-content"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -171,13 +171,13 @@ function Footer() {
         </div>
       </div>
       <hr className="divider" />
-      <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by Manny</p>
-        <div className="footer--social--icon">
+      <div className="footer-content-container">
+        <p className="footer-content">Made with 💖 by Manny</p>
+        <div className="footer-social-icon">
           <ul>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -190,7 +190,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
@@ -203,7 +203,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                activeClass="navbar--active-content"
+                activeClass="navbar-active-content"
                 spy={true}
                 smooth={true}
                 offset={-70}
