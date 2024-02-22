@@ -25,6 +25,7 @@
       "description": "End-end web solutions, handling both front and back-end development to deliver seamless and functional websites."
     }
   ],
+
   "portfolio": [
     {
       "id": "1",
@@ -46,6 +47,36 @@
       "title": "Mapapa Solution Website",
       "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
       "link": "View In GitHub"
+    }
+  ],
+
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "title": "ScholarFi App",
+      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "author_name": "Derrick Makhubele",
+      "author_designation": "Mapapa Solutions"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "title": "ScholarFi App",
+      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "author_name": "Ebenezer Mathebula",
+      "author_designation": "Mapapa Solutions"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "title": "ScholarFi App",
+      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "author_name": "Roy Mhlari",
+      "author_designation": "Mapapa Solutions"
     }
   ]
 }
