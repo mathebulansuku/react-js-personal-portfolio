@@ -32,21 +32,21 @@
       "src": "./img/placeholder-image.png",
       "title": "ScholarFi App",
       "description": "A free learning application that contains high school learning content, to aid students with their studies. It also offers career guidance.",
-      "link": "View In GitHub"
+      "link": "Visit site"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "ASW Tutors Website",
       "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale globally.",
-      "link": "View In GitHub"
+      "link": "Visit site"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Mapapa Solution Website",
       "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
-      "link": "View In GitHub"
+      "link": "Visit site"
     }
   ],
 
