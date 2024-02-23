@@ -4,7 +4,7 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End Dev",
-      "description": "Frond-end applications that portray the companies abilities to serve products that are recognized at a global standard."
+      "description": "Providing front-end services that offer engaging and intuitive user interface, ensuring seamless navigation."
     },
     {
       "id": "2",
@@ -21,8 +21,8 @@
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "End-end web solutions, handling both front and back-end development to deliver seamless and functional websites."
+      "title": "Cloud Architecting",
+      "description": "Integrate the power of the cloud to design and implement scalable, secure, and cost-effective solutions to help you grow in a few clicks."
     }
   ],
 

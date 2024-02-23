@@ -6,17 +6,18 @@ export default function AboutMe() {
       </div>
       <div className="hero-section-content-box-about-section-box">
         <div className="hero-section-content">
-          <p className="section-title">About</p>
+          {/* <p className="section-title">About</p> */}
           <h1 className="skills-section-heading">About Me</h1>
           <p className="hero-section-description">
-            Nsuku Mathebula, a tenacious computer science student from the
-            University of South Africa, is poised to graduate in 2025. Nsuku
-            Mathebula emerges as a name to watch in the ever-evolving world of
-            technology.
+            Meet Manny, a dynamic professional excelling in both front-end
+            development and AWS cloud architecture. With expertise in Front-end
+            development, Manny creates captivating user interfaces, while also
+            designing scalable and secure cloud solutions using Amazon Web
+            Services.
           </p>
           <p className="hero-section-description">
-            Nsuku Mathebula, a tenacious computer science student from the
-            University of South Africa, is poised to graduate in 2025.
+            Committed to innovation and excellence, Manny delivers top-notch
+            solutions that drive success in today's tech-driven world.
           </p>
         </div>
       </div>

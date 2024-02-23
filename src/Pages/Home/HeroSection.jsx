@@ -5,18 +5,19 @@ export default function HeroSection() {
         <div className="hero-section-content">
           <p className="section-title">Hey, I'm Manny </p>
           <h1 className="hero-section-title">
-            <span className="hero-section-title-color">Front-End</span>
+            <span className="hero-section-title-color">
+              Front-End Developer
+            </span>
             {""}
             <br />
-            Developer
+            AWS Cloud Architect
           </h1>
           <p className="hero-section-description">
-            Nsuku Mathebula, a tenacious computer science student.
+            Proficient in crafting intuitive user interface and seamless user
+            experience.
             <br />
-            As a skilled front-end web developer, Nsuku's proficiency spans the
-            entire spectrum of web application creation, where his fusion of
-            technical aptitude and artistic finesse crafts digital experiences
-            that captivate.
+            Skilled in designing and implementing scalable, cost-effective, and
+            secure cloud solutions.
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
