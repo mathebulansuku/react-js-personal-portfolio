@@ -31,7 +31,7 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "ScholarFi App",
-      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "description": "A free learning application that contains high school learning content, to aid students with their studies. It also offers career guidance.",
       "link": "View In GitHub"
     },
     {
@@ -55,8 +55,7 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "title": "ScholarFi App",
-      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "description": "Great colleague. I learned a lot with regards to web flow and design from him.",
       "author_name": "Derrick Makhubele",
       "author_designation": "Mapapa Solutions"
     },
@@ -64,8 +63,7 @@
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "title": "ScholarFi App",
-      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "description": "If you are looking for someone who is automatic with their work ethic and getting things done, Manny is your guy.",
       "author_name": "Ebay Mathebula",
       "author_designation": "Mapapa Solutions"
     },
@@ -73,8 +71,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "title": "ScholarFi App",
-      "description": "Front-end applications that portray the companies abilities to serve products that are recognized at a global standard.",
+      "description": "The only thing I will say is that his work speaks for him. He is willing to spend sleepless nights just to get things done.",
       "author_name": "Roy Mhlari",
       "author_designation": "Mapapa Solutions"
     }
