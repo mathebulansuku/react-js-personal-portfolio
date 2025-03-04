@@ -3,8 +3,8 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End Dev",
-      "description": "Providing front-end services that offer engaging and intuitive user interface, ensuring seamless navigation."
+      "title": "DevOps",
+      "description": "Passionate about automation and cloud technologies that bridge the gap between development and operations. "
     },
     {
       "id": "2",
@@ -15,13 +15,13 @@
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction."
+      "title": "Front-End Dev",
+      "description": "Intuitive and visually appealing user experience that are designed to enhance customer experience and satisfaction."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Cloud Architecting",
+      "title": "Cloud Security",
       "description": "Integrate the power of the cloud to design and implement scalable, secure, and cost-effective solutions to help you grow in a few clicks."
     }
   ],

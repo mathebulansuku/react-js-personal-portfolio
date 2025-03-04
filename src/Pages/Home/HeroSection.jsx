@@ -20,7 +20,9 @@ export default function HeroSection() {
             secure cloud solutions.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <button className="btn btn-primary" to="footer">
+          Get In Touch
+        </button>
       </div>
       {/* <div className="hero-section-img">
         <img src="./img/hero_img.png" alt="Hero Section" />
