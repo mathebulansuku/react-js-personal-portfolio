@@ -6,14 +6,14 @@ export default function HeroSection() {
           <p className="section-title">Hey, I'm Manny </p>
           <h1 className="hero-section-title">
             <span className="hero-section-title-color">
-              Front-End Developer
+              Full-Stack Developer
             </span>
             {""}
             <br />
-            AWS Cloud Architect
+            AWS Cloud Engineer
           </h1>
           <p className="hero-section-description">
-            Proficient in crafting intuitive user interface and seamless user
+            Proficient in crafting intuitive web applications with seamless user
             experience.
             <br />
             Skilled in designing and implementing scalable, cost-effective, and
@@ -24,9 +24,9 @@ export default function HeroSection() {
           Get In Touch
         </button>
       </div>
-      {/* <div className="hero-section-img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
-      </div> */}
+      <div className="hero-section-img">
+        <img src="./img/me-nobg.png" alt="Hero Section" />
+      </div>
     </section>
   );
 }
