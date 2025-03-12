@@ -6,13 +6,14 @@ import MyPortfolio from "../MyPortfolio";
 import Testimonial from "../Testimonial";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
+import Accolades from "../Skills";
 
 export default function Home() {
   return (
     <>
       <HeroSection />
       <MySkills />
-      <Skills />
+      <Accolades />
       <AboutMe />
       <MyPortfolio />
       <Testimonial />

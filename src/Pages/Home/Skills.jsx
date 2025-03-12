@@ -1,19 +1,12 @@
 export default function Accolades() {
   return (
     <div className="certificate-container">
-      <img
-        src="/certificates/aws-cloud-practitioner.png"
-        alt="AWS Cloud Practitioner"
-      />
-      <img src="" alt="AWS SAA" />
-      <img
-        src="/certificates/aws-solutions-architect-professional.png"
-        alt="AWS SAP"
-      />
-      <img
-        src="/certificates/aws-security-specialty.png"
-        alt="AWS Security Specialty"
-      />
+      <img src="./img/aws-practitioner.png" alt="AWS Cloud Practitioner" />
+      <img src="./img/aws-saa.png" alt="AWS Solutions Architect Associate" />
+      <img src="/img/aws-sap.png" alt="AWS Solutions Architect Professional" />
+      <img src="/img/aws-developer.png" alt="AWS Developer Associate" />
+      <img src="/img/aws-sysops.png" alt="AWS SysOps Associate" />
+      <img src="/img/aws-security.png" alt="AWS Security Specialty" />
     </div>
   );
 }
