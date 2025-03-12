@@ -307,6 +307,39 @@ h2 {
 }
 /* Skills Style Ends */
 
+/* Certificates section starts*/
+.section-heading h1 {
+  margin-bottom: 20px; /* Adds space below the header */
+}
+
+.certificate-section {
+  padding: 20px;
+  background: #111;
+  color: white;
+}
+
+.certificate-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  overflow-x: auto;
+  padding: 10px;
+}
+
+.certificate-container img {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.2);
+  transition: transform 0.3s;
+}
+
+.certificate-container img:hover {
+  transform: scale(1.1);
+}
+
+/* Certificates section ends*/
+
 /* About Us */
 .about-section {
   display: grid;
