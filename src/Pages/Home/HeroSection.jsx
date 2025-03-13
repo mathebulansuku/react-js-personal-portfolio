@@ -10,6 +10,7 @@ export default function HeroSection() {
             </span>
             {""}
             <br />
+            AWS Cloud Engineer
           </h1>
           <p className="hero-section-description">
             Proficient in crafting intuitive web applications with seamless user
