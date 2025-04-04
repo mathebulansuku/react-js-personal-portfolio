@@ -103,18 +103,20 @@ function Navbar() {
           </li>
         </ul>
       </div>
-      <Link
-        onClick={closeMenu}
-        activeClass="navbar-active-content"
-        spy={true}
-        smooth={true}
-        offset={-70}
-        duration={500}
-        to="ContactMe"
-        className="btn btn-outline-primary"
-      >
-        Contact Me
-      </Link>
+      <div className={`navbar-items ${navActive ? "active" : ""}`}>
+        <Link
+          onClick={closeMenu}
+          activeClass="navbar-active-content"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+          to="Contact"
+          className="btn btn-outline-primary"
+        >
+          Contact Me
+        </Link>
+      </div>
     </nav>
   );
 }

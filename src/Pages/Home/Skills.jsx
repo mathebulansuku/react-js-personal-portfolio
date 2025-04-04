@@ -1,9 +1,9 @@
 export default function Accolades() {
   return (
-    <section>
+    <section className="skills-section" id="mySkills">
       <div className="portfolio-container-box">
         <div className="portfolio-container">
-          <h1 className="section-heading">My Certificates</h1>
+          <h2 className="skills-section-heading">My Certificates</h2>
         </div>
       </div>
       <div className="certificate-container">
