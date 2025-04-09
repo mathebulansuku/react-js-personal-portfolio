@@ -7,6 +7,9 @@ body {
   -moz-osx-font-smoothing: "Roboto", sans-serif;
   font-style: normal;
 }
+a {
+  text-decoration: none;
+}
 h1,
 h2,
 h3,
@@ -418,6 +421,10 @@ h2 {
 }
 .portfolio-section-card:hover path {
   stroke: #006b6a;
+}
+
+.btn-github {
+  text-decoration: none;
 }
 /* Portfolio Ends */
 
