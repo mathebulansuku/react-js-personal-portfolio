@@ -7,16 +7,13 @@ export default function HeroSection() {
         <div className="hero-section-content">
           <p className="section-title">Hey, I'm Manny </p>
           <h1 className="hero-section-title">
-            <span className="hero-section-title-color">
-              Full-Stack Developer
-            </span>
+            <span className="hero-section-title-color">DevOps Engineer</span>
             {""}
             <br />
-            AWS Cloud Engineer
+            Cloud Engineer
           </h1>
           <p className="hero-section-description">
-            Proficient in crafting intuitive web applications with seamless user
-            experience.
+            I automate processes so teams can innovate without any friction.
             <br />
             Skilled in designing and implementing scalable, cost-effective, and
             secure cloud solutions.

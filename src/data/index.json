@@ -9,8 +9,8 @@
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End Dev",
-      "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale globally."
+      "title": "AI/ML Engineering",
+      "description": "Using AI/ML to improve business systems and "
     },
     {
       "id": "3",
@@ -49,6 +49,14 @@
       "title": "Mapapa Solution Website",
       "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
       "link": "https://www.mapapa.co.za/",
+      "linkText": "Visit site"
+    },
+    {
+      "id": "4",
+      "src": "./img/ccg.png",
+      "title": "Cloud Consulting Group",
+      "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
+      "link": "https://cloudconsultinggroup.co.za",
       "linkText": "Visit site"
     }
   ],
