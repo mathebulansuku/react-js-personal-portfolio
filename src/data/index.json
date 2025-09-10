@@ -38,9 +38,9 @@
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "ASW Tutors Website",
+      "title": "Cloud Consulting Group",
       "description": "Multi-tier web application that can be integrated with Cloud applications to optimize application functionality and scale globally.",
-      "link": "http://www.aswtutors.com",
+      "link": "https://cloudconsultinggroup.co.za",
       "linkText": "Visit site"
     },
     {
@@ -49,14 +49,6 @@
       "title": "Mapapa Solution Website",
       "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
       "link": "https://www.mapapa.co.za/",
-      "linkText": "Visit site"
-    },
-    {
-      "id": "4",
-      "src": "./img/ccg.png",
-      "title": "Cloud Consulting Group",
-      "description": "Intuitive and visually appealing user interface that are designed to enhance customer experience and satisfaction.",
-      "link": "https://cloudconsultinggroup.co.za",
       "linkText": "Visit site"
     }
   ],
