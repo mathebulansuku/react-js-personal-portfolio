@@ -9,7 +9,7 @@ export default function AboutMe() {
           {/* <p className="section-title">About</p> */}
           <h1 className="skills-section-heading">About Me</h1>
           <p className="hero-section-description">
-            19 X Certified, 6x AWS Certified, Terraform Certified, Software
+            21 X Certified, 8x AWS Certified, Terraform Certified, Software
             Engineer seeking to leverage my expertise within a dynamic and
             collaborative team. I am committed to driving impactful projects in
             a growth focused company that fosters continuous learning and
