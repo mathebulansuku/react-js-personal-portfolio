@@ -84,8 +84,8 @@ export default function ContactMe() {
             name="subject"
           >
             <option>Select</option>
-            <option>Full-Stack Developer</option>
-            <option>Back-End</option>
+            <option>DevOps Engineering</option>
+            <option>Web development</option>
             <option>Cloud Engineer</option>
           </select>
         </label>
