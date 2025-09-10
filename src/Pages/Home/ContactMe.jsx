@@ -31,7 +31,7 @@ export default function ContactMe() {
     <section id="Contact" className="contact-section">
       <div>
         <p className="sub-title">Get In Touch</p>
-        <h2>Contact Me</h2>
+        <h2>Email: info@techwithmanny.com</h2>
       </div>
       <form ref={form} className="contact-form-container" onSubmit={sendEmail}>
         <div className="container">
