@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+ENTRYPOINT ["echo", "Hello World"]
 LABEL "Author"="Nsuku"
 LABEL "Project"="React website"
 ENV DEBIAN_FRONTEND=noninteractive
